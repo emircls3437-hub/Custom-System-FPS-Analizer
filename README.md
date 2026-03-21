@@ -1,2 +1,6 @@
-# Custom-System-FPS-Analizer
-This İs System FPS Analizer For linux Terminal.PLEASE READ README.
+## Kurulum / Installation
+Terminalde şu komutu çalıştırın:
+sudo cp analizer.py /usr/local/bin/analizer.py
+## Kullanın / Using
+Terminalde şu komutu çalıştırın:
+analizer
