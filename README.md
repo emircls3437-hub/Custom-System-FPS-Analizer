@@ -1,4 +1,4 @@
-# 🚀 Custom System FPS Analizer v7.0
+# 🚀 Custom System FPS Analizer v7.5
 
 Bu araç, bilgisayar donanımınıza ve seçtiğiniz grafik segmentine (Piksel, 2D, 3D vb.) göre alacağınız tahmini FPS değerini analiz eden Python tabanlı bir yazılımdır.
 
