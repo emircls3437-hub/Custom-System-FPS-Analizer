@@ -14,5 +14,7 @@ Projeyi bilgisayarınıza indirmek için terminale şu komutu yazın:
 
 ```bash
 git clone [https://github.com/emircls3437-hub/Custom-System-FPS-Analizer.git](https://github.com/emircls3437-hub/Custom-System-FPS-Analizer.git)
+
 cd Custom-System-FPS-Analizer
-python3 analizer.py
+
+python3 analizer.py (Eğer bilgisayarınızın işletim sistemi Windows ise sadece : python analizer.py yazın.NOT bilgisayarınızda Python adlı uygulamanın yüklü olması gerekir.)
